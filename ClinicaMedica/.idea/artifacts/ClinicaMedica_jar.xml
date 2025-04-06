@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClinicaMedica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClinicaMedica_jar</output-path>
+    <root id="archive" name="ClinicaMedica.jar">
+      <element id="module-output" name="ClinicaMedica" />
+      <element id="library" level="project" name="ClinicaMedica" />
+      <element id="library" level="project" name="ClinicaMedica1" />
+    </root>
+  </artifact>
+</component>
