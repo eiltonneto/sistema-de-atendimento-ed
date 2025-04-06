@@ -29,6 +29,20 @@ Este é um projeto de estrutura de dados em Java que simula o funcionamento de u
 - `HistoricoDeConsultas.java`: mantém o histórico de atendimentos
 - `ClinicaApp.java`: contém o menu e a lógica de navegação
 
+ClinicaMedica/
+│
+├── src/                   # Código-fonte
+│   ├── clinica/           # Pacote principal
+│   └── ...
+├── out/                   # Arquivos compilados
+├── target/                # (Se existir)
+└── README.md              # Documentação do projeto
+
+
+Autor 👨‍💻
+Desenvolvido por **Eilton Neto**  
+[GitHub: @eiltonneto](https://github.com/eiltonneto)
+
 ## ✅ Como Executar
 
 1. Clone este repositório:
