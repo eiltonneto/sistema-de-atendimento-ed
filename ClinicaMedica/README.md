@@ -1,4 +1,4 @@
-# Sistema de Cl�nica M�dica 
+
 # Sistema de Clínica Médica 🏥
 
 Este é um projeto de estrutura de dados em Java que simula o funcionamento de uma clínica médica. Foi desenvolvido como parte da disciplina de Estrutura de Dados para praticar a implementação de TADs (Tipos Abstratos de Dados) como Lista, Fila e Pilha.
